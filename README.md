@@ -22,8 +22,25 @@ This extension was built with the help of **AI** and crafted using:
 
 ---
 
-## 🔧 How to Install  
 
-1. Download the ZIP file from this repository or clone it:  
-   ```bash
-   git clone https://github.com/prince-h-01/website-customizer-extension.git
+## 🔧 How to Install in Developer Mode
+
+1. **Download the Repository**:  
+   - Click the green **"Code"** button in this repository and select **"Download ZIP"**.
+   - Extract the ZIP file to a folder on your computer.
+
+2. **Open Chrome Extensions Page**:  
+   - Open **Google Chrome** and navigate to:  
+     ```
+     chrome://extensions/
+     ```
+
+3. **Enable Developer Mode**:  
+   - Toggle the **Developer Mode** switch in the top-right corner of the page.
+
+4. **Drag and Drop the Folder**:  
+   - Drag and drop the extracted folder directly into the extensions page.
+
+5. **Done!** 🎉  
+   - The extension will now appear in your browser's extensions list and be ready to use.
+
