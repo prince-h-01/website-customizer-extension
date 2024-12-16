@@ -26,4 +26,4 @@ This extension was built with the help of **AI** and crafted using:
 
 1. Download the ZIP file from this repository or clone it:  
    ```bash
-   git clone https://github.com/your-username/website-customizer-extension.git
+   git clone https://github.com/prince-h-01/website-customizer-extension.git
